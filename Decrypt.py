@@ -9,23 +9,6 @@ key = input("Encryption Key:")
 encrypt =''
 
 
-#for i in message:
-  #position=alphabet.find(i)
-  #newposition=(position+ +int(key) )%94
-  #encrypt+=alphabet [newposition]
-#output = (encrypt)
-
-#for i in message:
-  #position=alphabet.find(i)
-  #newposition=(position+ -int(key) )%94
-  #encrypt+=alphabet [newposition]
-#output = (encrypt)
-
-#for i in message:
-  #position=alphabet.find()
-  #newposition=(position+ -int(key) )%94
-  #encrypt+=alphabet [newposition]
-#output = (encrypt)
 
 #for i in message:
   #position=alphabet.find(i)
