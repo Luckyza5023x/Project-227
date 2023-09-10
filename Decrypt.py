@@ -10,11 +10,11 @@ encrypt =''
 
 
 
-#for i in message:
-  #position=alphabet.find(i)
-  #newposition=(position+ -int(key) )%94
-  #encrypt+=alphabet [newposition]
-#output = (decrypt)
+for i in message:
+  position=alphabet.find(i)
+  newposition=(position+ -int(key) )%94
+  encrypt+=alphabet [newposition]
+output = (decrypt)
 
 keyout = (keygen)
 
